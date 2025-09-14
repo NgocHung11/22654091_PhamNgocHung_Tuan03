@@ -1,4 +1,4 @@
-package iuh.fit.phamngochung_tuan03;
+package iuh.fit.phamngochung_tuan03.Servlet;
 
 import java.io.*;
 import jakarta.servlet.http.*;
